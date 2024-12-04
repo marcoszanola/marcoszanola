@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Anhanguera
 - 🌱 Estou me desenvolvendo e me aprimorando com o auxílio dos cursos da Alura
-- 🤔 Estou em busca do meu primeiro emprego
+- 🤔 Em busca do primeiro emprego
 - 📫 Como entrar em contato comigo: marcos33zanola@gmail.com
 
 
