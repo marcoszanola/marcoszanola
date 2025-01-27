@@ -25,8 +25,8 @@
 ## Estatísticas
 
 <div>
-<a href="https://github.com/Glaciaty">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaciaty&layout=compact&langs_count=7&theme=dracula"/> 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Glaciaty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/marcoszanola">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoszanola&layout=compact&langs_count=7&theme=dracula"/> 
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoszanola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
