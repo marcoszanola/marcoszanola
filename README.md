@@ -1,8 +1,9 @@
-# 👋 Olá! Boas-vindas ao meu perfil do GitHub.
-## Meu nome é Marcos Zanola e meu apelido é "Glaciaty"!
+![Header](./github-marcos-chatotheader.png)
+
+## Um pouco sobre mim
 
 - 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Anhanguera
-- 🌱 Estou me desenvolvendo e me aprimorando com o auxílio dos cursos da Alura
+- 🌱 Estou me desenvolvendo e me aprimorando a cada dia, sozinho e com o auxílio dos cursos da Alura
 - 🤔 Em busca do primeiro emprego
 - 📫 Como entrar em contato comigo: marcos33zanola@gmail.com
 
