@@ -1,10 +1,10 @@
 ![Header](./github-marcos-chatotheader.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=100&size=25&pause=1000&color=909090&center=true&width=961&lines=Currently+in+the+3th+semester+of+Systems+Analysis+and+Development;Improving+my+programming+skills+with+Alura;Currently+Studying%3A+HTML%2C+CSS%2C+JavaScript%2C+and+web+development;Currently+working+to+be+a+Pok%C3%A9mon+Master)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=100&size=25&pause=1000&color=909090&center=true&width=961&lines=Currently+in+the+1st+semester+of+Data+Science+at+FIAP;Improving+my+programming+skills+with+Alura;Currently+Studying%3A+HTML%2C+CSS%2C+JavaScript%2C+and+web+development;Currently+working+to+be+a+Pok%C3%A9mon+Master)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim
 
-- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Anhanguera
+- 🔭 Atualmente estou cursando Data Science na FIAP
 - 🌱 Estou me desenvolvendo e me aprimorando a cada dia, sozinho e com o auxílio dos cursos da Alura
 - 🤔 Em busca do primeiro emprego
 - 📫 Como entrar em contato comigo: marcos33zanola@gmail.com
